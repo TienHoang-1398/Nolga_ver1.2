@@ -7,6 +7,14 @@ body {
 .layout_padding {
   padding: 75px 0;
 }
+.layout_padding12 {
+  padding: 75px 0;
+  background-color: #e9d9c9;
+}
+.layout_padding13 {
+  padding: 75px 0;
+  background-image: url("images/test1.png");
+}
 
 .layout_padding2 {
   padding: 45px 0;
